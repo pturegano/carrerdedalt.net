@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: carrerdedalt.net
+description: Pere's personal blog site
+show_downloads: false
+google_analytics:

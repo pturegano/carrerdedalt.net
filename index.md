@@ -2,5 +2,7 @@
 ### Welcome to carrerdedalt.net
 Pere's personal blog site under improvement.
  
-[About](https://carrerdedalt.net/about)
+[About](https://carrerdedalt.net/about) 
+
+[Link to another page](./another-page.html).
 

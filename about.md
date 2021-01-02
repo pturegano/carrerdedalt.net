@@ -8,3 +8,4 @@ Big picture thinking, systems thinking, business knowledge, interpersonal skills
 
 ### Links : [Linkedin](https://www.linkedin.com/in/pturegano/) [Instagram](https://www.instagram.com/carrerdedalt_2020/)
 
+[back](./)

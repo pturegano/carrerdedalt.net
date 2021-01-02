@@ -1,7 +1,6 @@
+![Image](./assets/logo.png)
 ### Welcome to carrerdedalt.net
-Pere's personal blog site always under improvement.
-
-![Image](./assets/logo_initials.png)
-
+Pere's personal blog site under improvement.
+ 
 [About](https://carrerdedalt.net/about)
 

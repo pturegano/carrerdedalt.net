@@ -6,22 +6,26 @@ layout: default
 
 ## Index
 
+Catàleg de plantes.
+
 | Nom                      | Página |
 | ------------------------ | ------ |
 | Pino Negro (Pinus nigra) | [Pino Negro](pino-negro)   |
 |        Ginkgo biloba                   |   [Ginkgo](#Ginkgo)    |
- 
-<p>
 
 ## Files
-### Pino Negro
-Ficha de Pino Negro
 
-<p>
+### Pino Negro
+
+* Ficha 
+* Més informació
+* QR
 
 ### Ginkgo
-Fitxa de Gingko
-<p>
+
+* Ficha
+* Més informació
+* QR
 
 _yay_
 

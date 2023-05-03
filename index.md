@@ -6,3 +6,5 @@ Pere's personal blog site under improvement.
 
 [Link to another page](https://carrerdedalt.net/another-page.html).
 
+[Test](test.html) 
+
